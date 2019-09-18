@@ -1,0 +1,81 @@
+.naranja{
+  background-color: #F15A24;
+}
+
+.naranja-texto{
+  color: #F15A24;
+}
+.gris-claro-1{
+  background-color: #E6E6E6;
+}
+.gris-claro-1-texto{
+  color: #E6E6E6;
+}
+.gris-claro-2{
+  background-color: #CCCCCC;
+}
+.gris-claro-2-texto{
+  -color: #CCCCCC;
+}
+.gris-claro-3{
+  background-color: #B4B4B4;
+}
+.gris-claro-3-texto{
+  color: #B4B4B4;
+}
+.gris-claro-4{
+  background-color: #818181;
+}
+.gris-claro-4-texto{
+  color: #818181;
+}
+.gris-oscuro-1{
+  background-color: #4E4E4E;
+}
+.gris-oscuro-1-texto{
+  color: #4E4E4E;
+}
+.gris-oscuro-2{
+  background-color: #464646;
+}
+.gris-oscuro-2-texto{
+  color: #464646;
+}
+.gris-oscuro-3{
+  background-color: #3D3D3D;
+}
+.gris-oscuro-3-texto{
+  color: #3D3D3D;
+}
+
+.menu-fixed {
+  position: fixed;
+}
+.logo{
+  height: 64px;
+}
+
+
+.titulo-negocio {
+  font-size: 1em;
+  line-height: 110%;
+  margin: 0.82rem 0 0.656rem 0;
+}
+
+.titulo-negocio-modal {
+  font-size: 2em;
+  line-height: 110%;
+  margin: 0.82rem 0 0.656rem 0;
+}
+
+.nombre-negocio {
+  font-size: 1.5em;
+  line-height: 110%;
+  margin: 0.82rem 0 0.656rem 0;
+}
+
+.categoria {
+  font-size: 1.3em;
+  line-height: 110%;
+  margin: 0.82rem 0 0.656rem 0;
+}
